@@ -1,7 +1,7 @@
 package TokoMajuMundur;
 import java.util.Scanner;
 public class Kartu {
-    Scanner input = new Scanner(System.in);
+
     private double saldo;
     private String nama;
     private String pin;
